@@ -52,7 +52,3 @@ func multiTen(i int) int {
 	res := i * 10
 	return res
 }
-
-func function(a *int) {
-	a = 123
-}
